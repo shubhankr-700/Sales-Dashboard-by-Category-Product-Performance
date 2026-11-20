@@ -3,8 +3,6 @@
 **Which product categories actually make money, and which ones just look busy?**
 I built this interactive Excel dashboard to answer that question using 2,707 sales transactions across 17 countries.
 
-![Dashboard preview](images/dashboard.png)
-
 ---
 
 ## 🎯 The Business Problem
